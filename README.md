@@ -1,2 +1,3 @@
-# TicTacToe
-This TicTacToe AI project uses the minimax algorithm to play. This was built with Python and AI Minimax Algorithm.
+# TicTacToe with AI
+This TicTacToe AI project was built with Python. This project is an implementation of the Minimax AI Algorithm and how computer uses it to play games.
+
